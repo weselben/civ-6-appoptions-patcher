@@ -23,7 +23,7 @@ This patcher allows you to modify Civilization VI's configuration file (`AppOpti
 #### Installation and Usage
 You have two options for running this patcher:
 
-1. **Download the compiled `.exe` file from the [GitHub Releases](https://github.com/YourRepoHere) page (not recommended).**
+1. **Download the compiled `.exe` file from the [GitHub Releases](https://github.com/weselben/civ-6-appoptions-patcher/releases) page (not recommended).**
    - **Note:** Downloading the pre-compiled executable poses some risks. It is always safer to run/build the patcher from source code.
 
 2. **Run the patcher manually:**
